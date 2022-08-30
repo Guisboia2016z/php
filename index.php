@@ -1,6 +1,5 @@
 <?php
 
-echo "Hello Word 123";
-
-echo "Olá Hcold!";
+echo "Hello Word 456";
+echo "Olá Udemy!";
 ?>
